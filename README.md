@@ -1,4 +1,4 @@
-# Ben [Esila]
+# Ben Esila
 Bilişim Öğrencisi | Web & Game Dev
 
 Şu an öğrenme ve proje geliştirme aşamasındayım. Teknik ilgi alanlarım:
@@ -9,4 +9,4 @@ Odak: Unity ile Oyun Geliştirme & Web Teknolojileri
 
 🚀 Yakında burayı projelerimle dolduracağım.
 
-- 📧 Email: [esilagtesila@gmail.com]
+- 📧 Email: esilagtesila@gmail.com
