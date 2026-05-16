@@ -1,5 +1,5 @@
 # Ben Esila
-Bilişim Öğrencisi | Web & Game Dev
+Bilişim Öğrencisi | 2026 Tübitak 2204-A Yazılım Alanı Türkiye 3.sü
 
 Şu an öğrenme ve proje geliştirme aşamasındayım. Teknik ilgi alanlarım:
 
